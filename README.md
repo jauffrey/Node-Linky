@@ -11,6 +11,10 @@
 
 1. Télécharger, extraire puis copier le repertoire **Linky** dans le dossier `\node_modules\` concerné par votre éditeur **_NODE-RED_**.
 
+2. Aller dans le répertoire d'installation de node-red, et éxécuter la commande: 
+    
+    npm install moment superagent
+
 3. Relancez et/ou actualisez l'onglet de votre explorateur.
 
 ***
